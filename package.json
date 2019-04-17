@@ -1,0 +1,37 @@
+{
+  "name": "future_net_project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "compression-webpack-plugin": "^2.0.0",
+    "iview": "^3.2.2",
+    "js-cookie": "^2.2.0",
+    "store": "^2.0.12",
+    "uglifyjs-webpack-plugin": "^2.1.2",
+    "vue": "^2.6.6",
+    "vue-axios": "^2.0.2",
+    "vue-i18n": "^8.0.0",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.4.0",
+    "@vue/cli-plugin-eslint": "^3.4.0",
+    "@vue/cli-service": "^3.4.0",
+    "@vue/eslint-config-prettier": "^4.0.1",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "mockjs": "^1.0.1-beta3",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.1.0",
+    "vue-cli-plugin-i18n": "^0.5.2",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
